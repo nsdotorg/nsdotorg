@@ -22,7 +22,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Front-End**                  | `React.js` `Next.js` `Angular 2+`                                                                                                                                   |
 | **Back-End**                   | `Node.js` `Express.js`                                                                                                                                              |
-| **Languages**                  | `JavaScript (ES6+)` `Typescript` `Shell Scripting` `Perl`                                                                                                           |
+| **Languages**                  | `JavaScript (ES6+)` `TypeScript` `Shell Scripting` `Perl`                                                                                                           |
 | **State Management**           | `Redux` `Redux-Toolkit` `Context API` `Hooks`                                                                                                                       |
 | **Libraries**                  | `Styled Components` `React Router` `Redux Thunks` `RxJS` `jQuery` `Bootstrap` `Tailwind` `Material UI` `MDX` `Storybook` `Mongoose`                                 |
 | **Web Technologies**           | `HTML5` `CSS3 (+ SASS) `                                                                                                                                            |
