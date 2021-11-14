@@ -24,11 +24,11 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | **Back-End**                   | `Node.js` `Express.js`                                                                                                                                              |
 | **Languages**                  | `JavaScript (ES6+)` `TypeScript` `Shell Scripting` `Perl`                                                                                                           |
 | **State Management**           | `Redux` `Redux-Toolkit` `Context API` `Hooks`                                                                                                                       |
-| **Libraries**                  | `Styled Components` `React Router` `Redux Thunks` `RxJS` `jQuery` `Bootstrap` `Tailwind` `Material UI` `MDX` `Storybook` `Mongoose`                                 |
+| **Libraries**                  | `Styled Components` `React Router` `Redux-Thunk` `RxJS` `jQuery` `Bootstrap` `Tailwind` `Material UI` `MDX` `Storybook` `Mongoose`                                  |
 | **Web Technologies**           | `HTML5` `CSS3 (+ SASS) `                                                                                                                                            |
 | **APIs**                       | `REST` `GraphQL` `Apollo Client`                                                                                                                                    |
-| **Auth**                       | `Firebase` `JWT` `AWS Cognito`                                                                                                                       |
-| **Databases**                  | `RDB (PostgreSQL)` `NoSQL(MongoDB` `Firestore`                                                                                                                                 |
+| **Auth**                       | `Firebase` `JWT` `AWS Cognito`                                                                                                                                      |
+| **Databases**                  | `RDB (PostgreSQL)` `NoSQL(MongoDB` `Firestore`                                                                                                                      |
 | **Testing**                    | `Cypress` `Jest` `Cucumber` `Mocha` `Chai`                                                                                                                          |
 | **Workflow**                   | `Webpack` `Babel` `ESLint` `Prettier`                                                                                                                               |
 | **Package Managers**           | `NPM` `Yarn` `Homebrew`                                                                                                                                             |
