@@ -4,6 +4,16 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=nsdotorg&show_icons=true&theme=merko)
 
+### Roles Assumed Till Date
+
+- Technical Lead (Sept 2021 to Present)
+- Software Development Senior Analyst (Aug 2019 to Sept 2021)
+- Senior UI Developer (Jan 2019 to Aug 2019)
+- Full-Stack Developer (Jan 2017 to Jan 2019)
+- Systems Engineer (Aug 2016 to Jan 2017)
+- Assistant System Engineer (Nov 2014 to Aug 2016)
+- Assistant System Engineer Trainee (Aug 2014 to Nov 2014)
+
 ### Stack
 
 `MERN`, `MEAN`, `JAM`
