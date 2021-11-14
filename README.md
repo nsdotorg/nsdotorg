@@ -41,6 +41,24 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 
 ### Employment History
 
+**`S/W DEVELOPMENT SENIOR ANALYST, NTT DATA SERVICES, Bengaluru`**
+
+- August 2019 — Present
+- Client: Virgin Media
+- Projects: VMO2, Mobile, Store, Care, Digital Experience, Challenger (Micro apps - Monorepo)
+
+**`SENIOR UI DEVELOPER, NTT DATA SERVICES (Contractor), Bengaluru`**
+
+- January 2019 — August 2019
+- Client: British Standards Institution (BSI)
+- Projects: BSI Group
+
+**`SYSTEMS ENGINEER, TATA CONSULTANCY SERVICES, Mumbai`**
+
+- August 2014 — January 2017
+- Client: State Bank of India (SBI)
+- Projects: SBI-CBS (Core Banking System), 5 Associate Banks of SBI, Roopantar (Onlinesbi)
+
 **August 2019 — December 2021**
 | Role | S/W DEVELOPMENT SENIOR ANALYST |
 |----------|-----------------------------------------------------------|
