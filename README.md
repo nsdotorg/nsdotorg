@@ -4,7 +4,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=nsdotorg&show_icons=true&theme=merko)
 
-### Roles Assumed Till Date
+### Roles Assumed
 
 - Technical Lead (Sept 2021 to Present)
 - Software Development Senior Analyst (Aug 2019 to Sept 2021)
@@ -46,18 +46,21 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 - August 2019 — Present
 - Client: Virgin Media
 - Projects: VMO2, Mobile, Store, Care, Digital Experience, Challenger (Micro apps - Monorepo)
+- Responsibilities: Manage Team (13 members) • Stand-ups • Interviews • Code Reviews • UI Development • Responsive Design • Weekly and Monthly Utilization Reports • IAs & IIAs • A/B & Multivariate Tests • Unit Tests • E2E Tests • Weekly Catch-ups • Mentor Junior Developers • Train Freshers • L2 Support
 
 **`SENIOR UI DEVELOPER, NTT DATA SERVICES (Contractor), Bengaluru`**
 
 - January 2019 — August 2019
 - Client: British Standards Institution (BSI)
 - Projects: BSI Group
+- Responsibilities: Client Demos • UI Development • Website Redesign • Peer Reviews • IAs • Unit Tests • Manual Tests • Responsive Design • Accessibility • SEO • Interviews • Asset Generation
 
 **`SYSTEMS ENGINEER, TATA CONSULTANCY SERVICES, Mumbai`**
 
 - August 2014 — January 2017
 - Client: State Bank of India (SBI)
 - Projects: SBI-CBS (Core Banking System), 5 Associate Banks of SBI, Roopantar (Onlinesbi)
+- Responsibilities: Manage Team (7 members) • EOD-SOD • Batch Jobs • UNIX & Perl Scripts • Automation • UI Development • Responsive Design • UX Design • Checklists • Monitor Critical Jobs • Assess Failures
 
 ### Projects
 
