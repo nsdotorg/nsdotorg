@@ -1,8 +1,8 @@
-#### Summary
+### Summary
 
 Seasoned Front End Developer with 7.2 years of progressive experience in building intuitive interfaces, experiences, and user journeys for a number of enterprise-level projects and applications like Virgin Media O2, British Standards Institution (BSI), and State Bank of India (SBI).
 
-#### Stack
+### Stack
 
 `MERN`, `MEAN`, `JAM`
 
@@ -27,7 +27,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | Add-ons                    | SEO, Accessibility                                                                                                                                          |
 | Operating Systems          | macOS, Windows                                                                                                                                              |
 
-#### Projects
+### Projects
 
 | Projects            | URL                            |
 | ------------------- | ------------------------------ |
@@ -39,7 +39,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | State Bank of India | https://www.onlinesbi.com      |
 | Personal Website    | https://www.nishantsingh.org   |
 
-#### Employment History
+### Employment History
 
 **August 2019 — December 2021**
 | Role | S/W DEVELOPMENT SENIOR ANALYST |
