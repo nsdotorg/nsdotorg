@@ -20,7 +20,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 
 | Skills                         | Technologies                                                                                                                                                |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Front-End**                  | [React.js](https://reactjs.org/), Next.js, Angular 2+                                                                                                       |
+| **Front-End**                  | React.js, Next.js, Angular 2+                                                                                                                               |
 | **Back-End**                   | Node.js, Express.js                                                                                                                                         |
 | **Languages**                  | JavaScript (ES6+), Typescript, Shell Scripting, Perl                                                                                                        |
 | **State Management**           | Redux, Redux-Toolkit, Context API, Hooks                                                                                                                    |
