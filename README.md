@@ -71,4 +71,4 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | ------ | ---------------------- | ------------------------------------ | -------------- |
 | B.Tech | Computer Science       | SRM Institute Of Science & Technolog | 8.47 CGPA      |
 | 12th   | Computer Science + PCM | Guru Gobind Singh Public School      | 79%            |
-| 10th   | PCM & English + PCM    | DAV Public School                    | 89%            |
+| 10th   | English + PCM          | DAV Public School                    | 89%            |
