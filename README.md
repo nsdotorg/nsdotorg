@@ -27,18 +27,6 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | Add-ons                    | SEO, Accessibility                                                                                                                                          |
 | Operating Systems          | macOS, Windows                                                                                                                                              |
 
-### Projects
-
-| Projects            | URL                            |
-| ------------------- | ------------------------------ |
-| Virgin Media        | https://www.virginmedia.com    |
-| Virgin Media Mobile | https://mobile.virginmedia.com |
-| Virgin Media Store  | https://store.virginmedia.com  |
-| Virgin Media        | https://my.virginmedia.com     |
-| BSI Group           | https://www.bsigroup.com       |
-| State Bank of India | https://www.onlinesbi.com      |
-| Personal Website    | https://www.nishantsingh.org   |
-
 ### Employment History
 
 **`S/W DEVELOPMENT SENIOR ANALYST, NTT DATA SERVICES, Bengaluru`**
@@ -58,6 +46,18 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 - August 2014 — January 2017
 - Client: State Bank of India (SBI)
 - Projects: SBI-CBS (Core Banking System), 5 Associate Banks of SBI, Roopantar (Onlinesbi)
+
+### Projects
+
+| Projects            | URL                            |
+| ------------------- | ------------------------------ |
+| Virgin Media        | https://www.virginmedia.com    |
+| Virgin Media Mobile | https://mobile.virginmedia.com |
+| Virgin Media Store  | https://store.virginmedia.com  |
+| Virgin Media        | https://my.virginmedia.com     |
+| BSI Group           | https://www.bsigroup.com       |
+| State Bank of India | https://www.onlinesbi.com      |
+| Personal Website    | https://www.nishantsingh.org   |
 
 #### Education
 
