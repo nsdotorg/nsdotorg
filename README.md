@@ -39,6 +39,23 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | **Add-ons**                    | `SEO` `Accessibility`                                                                                                                                               |
 | **Operating Systems**          | `macOS` `Windows`                                                                                                                                                   |
 
+### Cloud Services (AWS)
+
+| Category                         | Service                                                                      |
+| -------------------------------- | ---------------------------------------------------------------------------- |
+| Compute                          | `EC2` `Lambda`                                                               |
+| Containers                       | `Elastic Container Registry` `Elastic Container Service`                     |
+| Storage                          | `S3`                                                                         |
+| Database                         | `RDS` `DynamoDB`                                                             |
+| Networking & Content Delivery    | `VPC` `CloudFront` `Route 53` `API Gateway`                                  |
+| Developer Tools                  | `CodeCommit` `CodeArtifact` `CodeBuild` `CodeDeploy` `CodePipeline`          |
+| Management & Governance          | `CloudWatch` `AWS Auto Scaling` `CloudFormation`                             |
+| Security, Identity, & Compliance | `IAM` `Cognito` `Secrets Manager` `AWS Single Sign-On` `Certificate Manager` |
+| AWS Cost Management              | `AWS Cost Explorer`                                                          |
+| Front-end Web & Mobile           | `AWS Amplify` `AWS AppSync`                                                  |
+| Application Integration          | `Simple Notification Service` `Simple Queue Service`                         |
+| Business Applications            | `Amazon Simple Email Service`                                                |
+
 ### Employment History
 
 **`S/W DEVELOPMENT SENIOR ANALYST, NTT DATA SERVICES, Bengaluru`**
