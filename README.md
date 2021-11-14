@@ -20,5 +20,6 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 - **Tools** - Nrwl's NX, Monorepos, Micro-apps, GraphiQL, Postman, GIT, JIRA, Visual Studio Code, IntelliJ IDEA, Lighthouse, Adobe Suite (XD, Photoshop, and Illustrator)
 - **A/B Testing** - Adobe Target, Google Optimize
 - **DevOps** - Gitlab CI/CD, Docker, Terraform, Jenkins
-- **Content Management Systems** - Strapi, WordPress, Episerver • Add-ons - SEO, Accessibility
+- **Content Management Systems** - Strapi, WordPress, Episerver
+- **Add-ons** - SEO, Accessibility
 - **Operating Systems** - macOS, Windows
