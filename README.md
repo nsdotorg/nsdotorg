@@ -1,6 +1,8 @@
-### Hi there 👋
+### Summary
 
-**Tech Stack**: MERN, MEAN, JAM Stack
+Seasoned Front End Developer with 7.2 years of progressive experience in building intuitive interfaces, experiences, and user journeys for a number of enterprise-level projects and applications like Virgin Media O2, British Standards Institution (BSI), and State Bank of India (SBI).
+
+### Tech Stack: MERN, MEAN, JAM Stack
 
 - **Front-End** - React.js, Next.js, Angular 2+
 - **Back-End** - Node.js, Express.js
@@ -19,19 +21,3 @@
 - **DevOps** - Gitlab CI/CD, Docker, Terraform, Jenkins
 - **Content Management Systems** - Strapi, WordPress, Episerver • Add-ons - SEO, Accessibility
 - **Operating Systems** - macOS, Windows
-
-<!--
-**nsdotorg/nsdotorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
