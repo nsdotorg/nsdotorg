@@ -2,7 +2,7 @@
 
 Seasoned Front End Developer with 7.2 years of progressive experience in building intuitive interfaces, experiences, and user journeys for a number of enterprise-level projects and applications like Virgin Media O2, British Standards Institution (BSI), and State Bank of India (SBI).
 
-#### Tech Stack
+#### Stack
 
 `MERN`, `MEAN`, `JAM`
 
@@ -38,3 +38,29 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | BSI Group           | https://www.bsigroup.com       |
 | State Bank of India | https://www.onlinesbi.com      |
 | Personal Website    | https://www.nishantsingh.org   |
+
+#### Employment History
+
+**August 2019 — December 2021**
+| Role | S/W DEVELOPMENT SENIOR ANALYST |
+|----------|-----------------------------------------------------------|
+| Company | NTT DATA SERVICES |
+| Location | Bengaluru |
+| Client | Virgin Media |
+| Projects | VMO2, Mobile, Store, Care, Digital Experience, Challenger |
+
+**January 2019 — August 2019**
+| Role | SENIOR UI DEVELOPER |
+|----------|-------------------------------------|
+| Company | NTT DATA SERVICES (Contract) |
+| Location | Bengaluru |
+| Client | British Standards Institution (BSI) |
+| Projects | BSI Group |
+
+**August 2014 — January 2017**
+| Role | SYSTEMS ENGINEER |
+|----------|--------------------------------------------------------------------------------|
+| Company | TATA CONSULTANCY SERVICES |
+| Location | Mumbai |
+| Client | State Bank of India (SBI) |
+| Projects | SBI-CBS (Core Banking System), 5 Associate Banks of SBI, Roopantar (Onlinesbi) |
