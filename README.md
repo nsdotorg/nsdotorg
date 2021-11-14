@@ -16,7 +16,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 
 ### Stack
 
-`MERN`, `MEAN`, `JAM`
+**`MERN`**, **`MEAN`**, **`JAM`**
 
 | Skills                         | Technologies                                                                                                                                                        |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
