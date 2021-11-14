@@ -28,7 +28,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | **Web Technologies**           | `HTML5` `CSS3 (+ SASS) `                                                                                                                                            |
 | **APIs**                       | `REST` `GraphQL` `Apollo Client`                                                                                                                                    |
 | **Auth**                       | `Firebase` `JWT` `AWS Cognito`                                                                                                                                      |
-| **Databases**                  | `RDB (PostgreSQL)` `NoSQL(MongoDB` `Firestore`                                                                                                                      |
+| **Databases**                  | `RDB (PostgreSQL)` `NoSQL(MongoDB & Firestore)`                                                                                                                     |
 | **Testing**                    | `Cypress` `Jest` `Cucumber` `Mocha` `Chai`                                                                                                                          |
 | **Workflow**                   | `Webpack` `Babel` `ESLint` `Prettier`                                                                                                                               |
 | **Package Managers**           | `NPM` `Yarn` `Homebrew`                                                                                                                                             |
