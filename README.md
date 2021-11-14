@@ -1,8 +1,9 @@
-### Summary
+#### Summary
 
 Seasoned Front End Developer with 7.2 years of progressive experience in building intuitive interfaces, experiences, and user journeys for a number of enterprise-level projects and applications like Virgin Media O2, British Standards Institution (BSI), and State Bank of India (SBI).
 
-#### TECH STACK
+#### Tech Stack
+
 `MERN`, `MEAN`, `JAM Stack`
 
 - **Front-End** - React.js, Next.js, Angular 2+
@@ -23,3 +24,13 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 - **Content Management Systems** - Strapi, WordPress, Episerver
 - **Add-ons** - SEO, Accessibility
 - **Operating Systems** - macOS, Windows
+
+#### Projects
+
+✔ Virgin Media: [https://www.virginmedia.com](https://www.virginmedia.com)
+✔ Virgin Media Mobile: [https://mobile.virginmedia.com](https://mobile.virginmedia.com)
+✔ Virgin Media Store: [https://store.virginmedia.com](https://store.virginmedia.com)
+✔ Virgin Media: [https://my.virginmedia.com](https://my.virginmedia.com)
+✔ BSI Group: [https://www.bsigroup.com](https://www.bsigroup.com)
+✔ State Bank of India: [https://www.onlinesbi.com](https://www.onlinesbi.com)
+✔ Personal Website: [https://www.nishantsingh.org](https://www.nishantsingh.org)
