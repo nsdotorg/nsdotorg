@@ -2,7 +2,7 @@
 
 Seasoned Front End Developer with 7.2 years of progressive experience in building intuitive interfaces, experiences, and user journeys for a number of enterprise-level projects and applications like Virgin Media O2, British Standards Institution (BSI), and State Bank of India (SBI).
 
-#### Tech Stack
+#### Skills
 
 `MERN`, `MEAN`, `JAM Stack`
 
