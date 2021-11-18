@@ -26,7 +26,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 | **State Management**           | `Redux` `Redux-Toolkit` `Context API` `Hooks`                                                                                                                       |
 | **Libraries**                  | `Styled Components` `React Router` `Redux-Thunk` `RxJS` `jQuery` `Bootstrap` `Tailwind` `Material UI` `MDX` `Storybook` `Mongoose`                                  |
 | **Web Technologies**           | `HTML5` `CSS3 (+ SASS) `                                                                                                                                            |
-| **APIs**                       | `REST` `GraphQL` `Apollo Client`                                                                                                                                    |
+| **APIs**                       | `REST` `RPC` `GraphQL` `Apollo Client`                                                                                                                                    |
 | **Auth**                       | `Firebase` `JWT` `AWS Cognito`                                                                                                                                      |
 | **Databases**                  | `RDB (PostgreSQL)` `NoSQL(MongoDB & Firestore)`                                                                                                                     |
 | **Testing**                    | `Cypress` `Jest` `Cucumber` `Mocha` `Chai`                                                                                                                          |
