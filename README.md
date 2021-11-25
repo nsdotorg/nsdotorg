@@ -4,7 +4,7 @@ Seasoned Front End Developer with 7.2 years of progressive experience in buildin
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=nsdotorg&show_icons=true&theme=merko)
 
-### Current & Past Roles
+### Professional Experience
 
 - **`Technical Lead - Offshore`** - Sept 2021 to Present
 - **`Module Lead - Digital Experience`** - Aug 2019 – Present
