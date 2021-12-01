@@ -8,6 +8,7 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 
 - **`Technical Lead - Offshore`** - Sept 2021 to Present
 - **`Module Lead - Digital Experience`** - Aug 2019 – Present
+- **`Frontend Lead - Offshore`** - Aug 2019 – Present
 - **`Software Development Senior Analyst`** - Aug 2019 – Present
 - **`Senior UI Developer`** - Jan 2019 – Aug 2019
 - **`Full-Stack Developer`** - Jan 2017 to Jan 2019
