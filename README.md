@@ -6,10 +6,11 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 
 ### Professional Experience
 
-- **`Technical Lead - Offshore`** - Sept 2021 to Present
-- **`Module Lead - Digital Experience`** - Aug 2019 – Present
-- **`Frontend Lead - Offshore`** - Aug 2019 – Present
-- **`Software Development Senior Analyst`** - Aug 2019 – Present
+- **`Software Engineer III`** - Dec 2021 to Present
+- **`Technical Lead - Offshore`** - Sept 2021 to Dec 2021
+- **`Module Lead - Digital Experience`** - Aug 2019 – Dec 2021
+- **`Frontend Lead - Offshore`** - Aug 2019 – Dec 2021
+- **`Software Development Senior Analyst`** - Aug 2019 – Dec 2021
 - **`Senior UI Developer`** - Jan 2019 – Aug 2019
 - **`Full-Stack Developer`** - Jan 2017 to Jan 2019
 - **`Production Team Lead`** - Aug 2016 – Jan 2017
@@ -61,6 +62,13 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 | **Business Applications**            | `Amazon Simple Email Service`                                                |
 
 ### Employment History
+
+**`Software Engineer III, Stats Perform, Bengaluru`**
+
+- December 2021 — Present
+- Client: Stats Perform
+- Projects: DCOE
+- Responsibilities: `Manage Team (13 members)` • `Stand-ups` • `Interviews` • `Code Reviews` • `UI Development` • `Responsive Design` • `Weekly and Monthly Utilization Reports` • `IAs & IIAs` • `A/B & Multivariate Tests` • `Unit Tests` • `E2E Tests` • `Weekly Catch-ups` • `Mentor Junior Developers` • `Train Freshers` • `L2 Support`
 
 **`S/W DEVELOPMENT SENIOR ANALYST, NTT DATA SERVICES, Bengaluru`**
 
