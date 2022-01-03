@@ -68,7 +68,7 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 - December 2021 — Present
 - Client: Stats Perform
 - Projects: DCOE
-- Responsibilities: `Manage Team (13 members)` • `Stand-ups` • `Interviews` • `Code Reviews` • `UI Development` • `Responsive Design` • `Weekly and Monthly Utilization Reports` • `IAs & IIAs` • `A/B & Multivariate Tests` • `Unit Tests` • `E2E Tests` • `Weekly Catch-ups` • `Mentor Junior Developers` • `Train Freshers` • `L2 Support`
+- Responsibilities: `Legacy App Migrations` • `Stand-ups` • `Interviews` • `Code Refactoring` • `Code Reviews` • `UI Development` • `Responsive Design` • `IAs & IIAs` • `A/B & Multivariate Tests` • `Unit Tests` • `E2E Tests` • `Mentor Junior Developers` • `Train Freshers` • `L2 Support`
 
 **`S/W DEVELOPMENT SENIOR ANALYST, NTT DATA SERVICES, Bengaluru`**
 
