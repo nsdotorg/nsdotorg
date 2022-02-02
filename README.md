@@ -39,7 +39,7 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 | **Package Managers**           | `NPM` `Yarn` `Homebrew`                                                                                                                                             |
 | **Tools**                      | `Nrwl's NX` `Monorepos` `Micro-apps` `GraphiQL` `Postman` `GIT` `JIRA` `Visual Studio Code` `IntelliJ IDEA` `Lighthouse` `Adobe Suite (XD, Photoshop, Illustrator)` |
 | **A/B Testing**                | `Adobe Target` `Google Optimize`                                                                                                                                    |
-| **DevOps**                     | `Gitlab CI/CD` `Docker` `Terraform` `Jenkins`                                                                                                                       |
+| **DevOps**                     | `Gitlab CI/CD` `Docker` `Terraform` `Jenkins` `Atlantis`                                                                                                                       |
 | **Content Management Systems** | `Strapi` `WordPress` `Episerver`                                                                                                                                    |
 | **Add-ons**                    | `SEO` `Accessibility`                                                                                                                                               |
 | **Operating Systems**          | `macOS` `Windows`                                                                                                                                                   |
