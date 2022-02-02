@@ -61,6 +61,11 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 | **Application Integration**          | `Simple Notification Service` `Simple Queue Service`                         |
 | **Business Applications**            | `Amazon Simple Email Service`                                                |
 
+**`VMs`**
+
+| Category                             | Item                                                                     |
+| ------------------------------------ | ---------------------------------------------------------------------------- |
+| **AWS**                          | `Workspace`                                                               |
 ### Employment History
 
 **`Software Engineer III, Stats Perform, Bengaluru`**
