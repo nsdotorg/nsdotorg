@@ -42,7 +42,7 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 | **DevOps**                     | `Gitlab CI/CD` `Docker` `Terraform` `Jenkins` `Atlantis`                                                                                                                       |
 | **Content Management Systems** | `Strapi` `WordPress` `Episerver`                                                                                                                                    |
 | **Add-ons**                    | `SEO` `Accessibility`                                                                                                                                               |
-| **Operating Systems**          | `macOS` `Windows`                                                                                                                                                   |
+| **Operating Systems**          | `macOS` `Windows` `Linux`                                                                                                                                                   |
 
 **`AWS Services`**
 
