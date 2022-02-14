@@ -43,6 +43,7 @@ Seasoned Front End Developer with 7.3 years of progressive experience in buildin
 | **Content Management Systems** | `Strapi` `WordPress` `Episerver`                                                                                                                                    |
 | **Add-ons**                    | `SEO` `Accessibility`                                                                                                                                               |
 | **Operating Systems**          | `macOS` `Windows` `Linux`                                                                                                                                                   |
+| **Infrastructure As Code**          | `Terraform` `AWS CloudFormation` `Azure Resource Manager`                                                                                                                                                 |
 
 **`AWS Services`**
 
