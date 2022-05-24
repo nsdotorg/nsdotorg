@@ -4,7 +4,6 @@ Seasoned Front End Developer with 7.5 years of progressive experience in buildin
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsdotorg&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lauguage?username=nsdotorg&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nsdotorg&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nsdotorg&theme=default)
 
 ### Professional Experience
