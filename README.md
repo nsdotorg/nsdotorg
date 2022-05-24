@@ -2,7 +2,7 @@
 
 Seasoned Front End Developer with 7.5 years of progressive experience in building intuitive interfaces, experiences, and user journeys for a number of enterprise-level projects and applications like Virgin Media O2, British Standards Institution (BSI), and State Bank of India (SBI) & Data Scrapers & Data Collection Tools for Stats Perform.
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=nsdotorg&show_icons=true&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsdotorg&theme=vue)
 
 ### Professional Experience
 
