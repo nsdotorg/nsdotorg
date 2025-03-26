@@ -103,6 +103,7 @@ Seasoned Front End Developer with 8 years of progressive experience in building 
 
 | Projects            | URL                            |
 | ------------------- | ------------------------------ |
+| Torch               | https://torch.io               |
 | Virgin Media        | https://www.virginmedia.com    |
 | Virgin Media Mobile | https://mobile.virginmedia.com |
 | Virgin Media Store  | https://store.virginmedia.com  |
