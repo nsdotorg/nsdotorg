@@ -8,7 +8,8 @@ Seasoned Front End Developer with 8 years of progressive experience in building 
 
 ### Professional Experience
 
-- **`Software Engineer III`** - Dec 2021 to Present
+- **`Staff Software Engineer - Product & Platform Engineering`** - Apr 2024 - Present
+- **`Software Engineer III`** - Dec 2021 to Nov 2023
 - **`Technical Lead - Offshore`** - Sept 2021 to Dec 2021
 - **`Module Lead - Digital Experience`** - Aug 2019 – Dec 2021
 - **`Frontend Lead - Offshore`** - Aug 2019 – Dec 2021
