@@ -72,9 +72,16 @@ Seasoned Front End Developer with 8 years of progressive experience in building 
 | **AWS**                          | `Workspace`                                                               |
 ### Employment History
 
+**`Staff Software Engineer - Product & Platform Engineering`**
+
+- April 2024 - Present
+- Client: Torch
+- Projects: Torch Coaching Platform
+- Responsibilities: `Feature Development` • `Component Reusability` • `PDF Generation & Data Export` • `Integrations` • `Factories` • `Unit, Integration, Automation Tests` • `Accessibility` • `Enhancing User Experiences` • `Performance Optimization` • `Code Quality & Refactoring` • `Bug Fixes` • `Internationalization & Localization Support` • `Form Validations` • `Minor DevOps Tweaks` • `Documentation` • `Knowledge Sharing` • `Code Reviews` • `L1 & L2 Interviews` • `Technical Leadership (Mentor Freshers & Junior Developers)`
+
 **`Software Engineer III, Stats Perform, Bengaluru`**
 
-- December 2021 — Present
+- December 2021 — November 2023
 - Client: Stats Perform
 - Projects: DCOE
 - Responsibilities: `Legacy App Migrations` • `Stand-ups` • `Interviews` • `Code Refactoring` • `Code Reviews` • `UI Development` • `Responsive Design` • `IAs & IIAs` • `A/B & Multivariate Tests` • `Unit Tests` • `E2E Tests` • `Mentor Junior Developers` • `Train Freshers` • `L2 Support`
