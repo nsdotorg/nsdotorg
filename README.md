@@ -1,6 +1,12 @@
-### Summary
+Hey there!
 
-**Seasoned Software Engineer** with **10+ years** of progressive experience in building intuitive interfaces, experiences, and user journeys for several enterprise-level applications like **Torch Coaching Platform, Pressbox Search, Virgin Media, VMO2, British Standards Institution (BSI),** and **State Bank of India (SBI).**
+I am a seasoned Software Architect specialized in designing & building high-performance, intuitive user interfaces for complex global systems. With over a decade of experience, I focus on the intersection of scalable frontend architecture and seamless user experience, bridging the gap between sophisticated backend logic and the end user.
+
+My portfolio includes delivering mission-critical frontend solutions for industry leaders such as Torch Coaching Platform, Virgin Media O2, British Standards Institution (BSI), and the State Bank of India (SBI), where I focused on building resilient, accessible, and high-conversion digital platforms.
+
+🍁 Core Philosophy 🍁
+
+I believe in building "Frontend with Purpose." Whether leveraging the MERN stack for agility or Micro-frontends for enterprise modularity, my goal is to deliver clean, type-safe, and accessible code. I am deeply integrated into the modern AI-assisted development workflow (Cursor, Copilot) to accelerate delivery cycles while maintaining a rigorous focus on performance optimization and UI/UX excellence.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsdotorg&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nsdotorg&theme=default)
