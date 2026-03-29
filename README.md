@@ -2,7 +2,7 @@ Strategic Software Engineer / Architect with over a decade of experience managin
 
 From governing digital ecosystems for the State Bank of India (500M+ users) to maintaining 40k+ page platforms for BSI, I focus on systemic reliability, security, and long-term maintainability.
 
-**🍁 Core Architectural Philosophy 🍁 **
+🍁 **Core Architectural Philosophy** 🍁
 
 Systems-Thinking / Systems with Purpose: I approach software as a holistic, living ecosystem. I prioritize platform stability and modularity, leveraging Micro-frontends and Monorepo architectures to solve for enterprise-level fragmentation. By integrating modern AI-assisted workflows (Claude, Cursor, Copilot), I accelerate delivery cycles while maintaining rigorous standards in performance optimization, type-safety, and system-wide consistency.
 
