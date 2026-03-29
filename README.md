@@ -47,7 +47,7 @@ Systems-Thinking / Systems with Purpose: I approach software as a holistic, livi
 | **Front-End**                  | `React.js` `Next.js` `Angular 2+`                                                                                                                                   |
 | **Back-End**                   | `Node.js` `Express.js`                                                                                                                                              |
 | **Languages**                  | `JavaScript (ES6+)` `TypeScript` `Shell Scripting` `Perl`                                                                                                           |
-| **State Management**           | `Redux` `Redux-Toolkit` `Context API` `Hooks`                                                                                                                       |
+| **State Management**           | `Zustand` `Redux` `Redux-Toolkit` `Context API` `Hooks`                                                                                                                       |
 | **Libraries**                  | `Styled Components` `React Router` `Redux-Thunk` `RxJS` `jQuery` `Bootstrap` `Tailwind` `Material UI` `MDX` `Storybook` `Mongoose`                                  |
 | **Web Technologies**           | `HTML5` `CSS3 (+ SASS) `                                                                                                                                            |
 | **APIs**                       | `REST` `RPC` `GraphQL` `Apollo Client` `Apollo Server`                                                                                                                                    |
