@@ -1,12 +1,22 @@
-Hey there!
+Strategic Software Engineer / Architect with over a decade of experience managing and scaling high-performance global systems. My expertise lies in the lifecycle and evolution of resilient architectures, ensuring that complex backend logic translates into seamless, enterprise-grade digital experiences. I specialize in navigating the technical debt and scaling challenges of large-scale migrations, multi-platform integrations, and high-concurrency environments.
 
-I am a seasoned Software Architect specialized in designing & building high-performance, intuitive user interfaces for complex global systems. With over a decade of experience, I focus on the intersection of scalable frontend architecture and seamless user experience, bridging the gap between sophisticated backend logic and the end user.
+From governing digital ecosystems for the State Bank of India (500M+ users) to maintaining 40k+ page platforms for BSI, I focus on systemic reliability, security, and long-term maintainability.
 
-My portfolio includes delivering mission-critical frontend solutions for industry leaders such as Torch Coaching Platform, Virgin Media O2, British Standards Institution (BSI), and the State Bank of India (SBI), where I focused on building resilient, accessible, and high-conversion digital platforms.
+🍁 Core Architectural Philosophy 🍁 
 
-🍁 Core Philosophy 🍁
+Systems-Thinking / Systems with Purpose: I approach software as a holistic, living ecosystem. I prioritize platform stability and modularity, leveraging Micro-frontends and Monorepo architectures to solve for enterprise-level fragmentation. By integrating modern AI-assisted workflows (Claude, Cursor, Copilot), I accelerate delivery cycles while maintaining rigorous standards in performance optimization, type-safety, and system-wide consistency.
 
-I believe in building "Frontend with Purpose." Whether leveraging the MERN stack for agility or Micro-frontends for enterprise modularity, my goal is to deliver clean, type-safe, and accessible code. I am deeply integrated into the modern AI-assisted development workflow (Cursor, Copilot) to accelerate delivery cycles while maintaining a rigorous focus on performance optimization and UI/UX excellence.
+Key Career Highlights
+
+🦠 Infrastructure & Maintenance (Torch): Managed and evolved a complex, multi-library frontend ecosystem within a massive monorepo architecture. Scaled the existing infrastructure to ensure cross-service modularity, optimized build pipelines, and sustained high developer velocity across the enterprise.
+
+🦠 Mission-Critical Systems (State Bank of India): Engineered high-stakes interfaces and automated integrations for a 500M+ user base. Focused on system integrity, data security, and high availability within a strictly regulated banking infrastructure.
+
+🦠 Enterprise Platform Scale (Virgin Media O2 & BSI): Directed the technical delivery of high-conversion e-commerce and marketing engines. Managed the architectural coherence of 40,000+ digital assets, ensuring seamless integration between CMS layers and frontend delivery.
+
+🦠 Data Orchestration & Analytics (Stats Perform): Designed complex data collection and search systems (PressBox Search), bridging the gap between massive dynamic data sets and actionable analytical tools.
+
+🦠 Technical Leadership & Mentorship: Led the end-to-end implementation of 5+ enterprise applications. Acted as a cross-functional mentor, establishing engineering standards for React and scalable component architectures to ensure long-term code health.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsdotorg&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nsdotorg&theme=default)
