@@ -50,7 +50,7 @@ Systems-Thinking / Systems with Purpose: I approach software as a holistic, livi
 | **State Management**           | `Redux` `Redux-Toolkit` `Context API` `Hooks`                                                                                                                       |
 | **Libraries**                  | `Styled Components` `React Router` `Redux-Thunk` `RxJS` `jQuery` `Bootstrap` `Tailwind` `Material UI` `MDX` `Storybook` `Mongoose`                                  |
 | **Web Technologies**           | `HTML5` `CSS3 (+ SASS) `                                                                                                                                            |
-| **APIs**                       | `REST` `RPC` `GraphQL` `Apollo Client`                                                                                                                                    |
+| **APIs**                       | `REST` `RPC` `GraphQL` `Apollo Client` `Apollo Server`                                                                                                                                    |
 | **Auth**                       | `Firebase` `JWT` `AWS Cognito`                                                                                                                                      |
 | **Databases**                  | `RDB (PostgreSQL)` `NoSQL(MongoDB & Firestore)`                                                                                                                     |
 | **Testing**                    | `Cypress` `Jest` `Cucumber` `Mocha` `Chai`                                                                                                                          |
