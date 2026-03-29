@@ -2,21 +2,21 @@ Strategic Software Engineer / Architect with over a decade of experience managin
 
 From governing digital ecosystems for the State Bank of India (500M+ users) to maintaining 40k+ page platforms for BSI, I focus on systemic reliability, security, and long-term maintainability.
 
-🍁 Core Architectural Philosophy 🍁 
+**🍁 Core Architectural Philosophy 🍁 **
 
 Systems-Thinking / Systems with Purpose: I approach software as a holistic, living ecosystem. I prioritize platform stability and modularity, leveraging Micro-frontends and Monorepo architectures to solve for enterprise-level fragmentation. By integrating modern AI-assisted workflows (Claude, Cursor, Copilot), I accelerate delivery cycles while maintaining rigorous standards in performance optimization, type-safety, and system-wide consistency.
 
-Key Career Highlights
+**Key Career Highlights**
 
-🦠 Infrastructure & Maintenance (Torch): Managed and evolved a complex, multi-library frontend ecosystem within a massive monorepo architecture. Scaled the existing infrastructure to ensure cross-service modularity, optimized build pipelines, and sustained high developer velocity across the enterprise.
+🦠 **Infrastructure & Maintenance (Torch):** Managed and evolved a complex, multi-library frontend ecosystem within a massive monorepo architecture. Scaled the existing infrastructure to ensure cross-service modularity, optimized build pipelines, and sustained high developer velocity across the enterprise.
 
-🦠 Mission-Critical Systems (State Bank of India): Engineered high-stakes interfaces and automated integrations for a 500M+ user base. Focused on system integrity, data security, and high availability within a strictly regulated banking infrastructure.
+🦠 **Mission-Critical Systems (State Bank of India):** Engineered high-stakes interfaces and automated integrations for a 500M+ user base. Focused on system integrity, data security, and high availability within a strictly regulated banking infrastructure.
 
-🦠 Enterprise Platform Scale (Virgin Media O2 & BSI): Directed the technical delivery of high-conversion e-commerce and marketing engines. Managed the architectural coherence of 40,000+ digital assets, ensuring seamless integration between CMS layers and frontend delivery.
+🦠 **Enterprise Platform Scale (Virgin Media O2 & BSI):** Directed the technical delivery of high-conversion e-commerce and marketing engines. Managed the architectural coherence of 40,000+ digital assets, ensuring seamless integration between CMS layers and frontend delivery.
 
-🦠 Data Orchestration & Analytics (Stats Perform): Designed complex data collection and search systems (PressBox Search), bridging the gap between massive dynamic data sets and actionable analytical tools.
+🦠 **Data Orchestration & Analytics (Stats Perform):** Designed complex data collection and search systems (PressBox Search), bridging the gap between massive dynamic data sets and actionable analytical tools.
 
-🦠 Technical Leadership & Mentorship: Led the end-to-end implementation of 5+ enterprise applications. Acted as a cross-functional mentor, establishing engineering standards for React and scalable component architectures to ensure long-term code health.
+🦠 **Technical Leadership & Mentorship:** Led the end-to-end implementation of 5+ enterprise applications. Acted as a cross-functional mentor, establishing engineering standards for React and scalable component architectures to ensure long-term code health.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsdotorg&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nsdotorg&theme=default)
