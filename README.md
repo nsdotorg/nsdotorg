@@ -1,4 +1,4 @@
-Strategic Software Engineer / Architect with over a decade of experience managing and scaling high-performance global systems. My expertise lies in the lifecycle and evolution of resilient architectures, ensuring that complex backend logic translates into seamless, enterprise-grade digital experiences. I specialize in navigating the technical debt and scaling challenges of large-scale migrations, multi-platform integrations, and high-concurrency environments.
+Strategic Software Architect with over a decade of experience managing and scaling high-performance global systems. My expertise lies in the lifecycle and evolution of resilient architectures, ensuring that complex backend logic translates into seamless, enterprise-grade digital experiences. I specialize in navigating the technical debt and scaling challenges of large-scale migrations, multi-platform integrations, and high-concurrency environments.
 
 From governing digital ecosystems for the State Bank of India (500M+ users) to maintaining 40k+ page platforms for BSI, I focus on systemic reliability, security, and long-term maintainability.
 
